@@ -1,7 +1,4 @@
 
-
-## API
-
 ### `compute_portvals`
 ```python
 def compute_portvals(
